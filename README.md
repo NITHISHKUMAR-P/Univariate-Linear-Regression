@@ -15,6 +15,10 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
 ```
+#Python program to implement K-Means Clustering Algorithm
+#Developed By: Nithishkumar P
+#Register Number: 212221230070
+
 #Preprocessing Input data
 import numpy as np
 import matplotlib.pyplot as plt
